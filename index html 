@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZIX FF SENSI</title>
+<style>
+*{box-sizing:border-box}
+body{
+ margin:0;
+ font-family:Arial,sans-serif;
+ background:#10121c;
+ color:white;
+ text-align:center;
+}
+header{
+ background:#181d2d;
+ padding:30px 15px;
+ border-bottom:2px solid #00eaff;
+}
+h1{color:#00eaff;font-size:32px}
+header p{color:#aaa}
+.container{padding:20px}
+.card{
+ background:#1c2335;
+ margin:15px auto;
+ padding:20px;
+ border-radius:15px;
+ max-width:400px;
+ border:1px solid #303b55;
+}
+h2{color:#00eaff}
+.value{
+ font-size:30px;
+ color:#00ff99;
+ font-weight:bold;
+}
+button{
+ background:#00eaff;
+ color:#10121c;
+ border:0;
+ padding:14px 25px;
+ border-radius:10px;
+ font-weight:bold;
+ font-size:16px;
+}
+footer{padding:25px;color:#888}
+</style>
+</head>
+<body>
+
+<header>
+<h1>🔥 ZIX FF SENSI</h1>
+<p>Free Fire India Sensitivity Settings</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>🎯 General</h2>
+<div class="value">95</div>
+</div>
+
+<div class="card">
+<h2>🔴 Red Dot</h2>
+<div class="value">90</div>
+</div>
+
+<div class="card">
+<h2>🔭 2X Scope</h2>
+<div class="value">85</div>
+</div>
+
+<div class="card">
+<h2>🎯 4X Scope</h2>
+<div class="value">80</div>
+</div>
+
+<div class="card">
+<h2>🔫 Sniper Scope</h2>
+<div class="value">50</div>
+</div>
+
+<div class="card">
+<h2>👁 Free Look</h2>
+<div class="value">75</div>
+</div>
+
+<div class="card">
+<h2>🔥 About Us</h2>
+<p>Welcome to ZIX FF SENSI!</p>
+<p>Find Free Fire sensitivity settings here.</p>
+<p>Settings are starting suggestions. Adjust them to your device and comfort.</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 ZIX FF SENSI
+</footer>
+
+</body>
+</html>
